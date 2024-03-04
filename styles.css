@@ -1,0 +1,53 @@
+.arrow-btn {
+    font-size: 20px; /* Tamaño de la flecha */
+    width: 40px; /* Ancho del botón */
+    height: 40px; /* Alto del botón */
+    border: none;
+    background-color: transparent; /* Fondo transparente */
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .arrow-btn:hover {
+    background-color: #eee; /* Color de fondo al pasar el ratón */
+  }
+  
+  .horizontal-arrows button {
+    margin: 0 5px; /* Espacio entre botones de flechas horizontales */
+  }
+
+  .shoot-btn {
+    font-size: 16px; /* Tamaño del texto del botón de disparo */
+    padding: 10px 20px; /* Espaciado interno del botón de disparo */
+    background-color: #ff6347; /* Color de fondo del botón de disparo */
+    color: white; /* Color del texto del botón de disparo */
+    border: none;
+    border-radius: 5px; /* Borde redondeado del botón de disparo */
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .shoot-btn:hover {
+    background-color: #ff4c00; /* Color de fondo del botón de disparo al pasar el ratón */
+  }
+  
+  .diagonal-btn {
+    font-size: 18px; /* Tamaño de la flecha diagonal */
+    width: 40px; /* Ancho del botón de flecha diagonal */
+    height: 40px; /* Alto del botón de flecha diagonal */
+    border: none;
+    background-color: transparent; /* Fondo transparente */
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .diagonal-btn:hover {
+    background-color: #eee; /* Color de fondo de la flecha diagonal al pasar el ratón */
+  }
+  
+  .horizontal-arrows button {
+    margin: 0 5px; /* Espacio entre botones de flechas horizontales */
+  }
+  
+  
+  

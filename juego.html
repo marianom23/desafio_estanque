@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Juego</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    table {
+      border-collapse: collapse;
+      margin-bottom: 20px; /* Espacio entre la matriz y los botones */
+    }
+    td {
+      width: 30px;
+      height: 30px;
+      border: 1px solid black;
+      text-align: center;
+    }
+    section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    button {
+      margin: 5px; /* Espacio entre los botones */
+    }
+  </style>
+</head>
+<body>
+  <table id="matriz"></table>
+  <section>
+    <div>
+      <button id="up" class="arrow-btn">▲</button>
+    </div>
+    <div class="horizontal-arrows">
+      <button id="left" class="arrow-btn">◀</button>
+      <button id="right" class="arrow-btn">▶</button>
+    </div>
+    <div>
+      <button id="down" class="arrow-btn">▼</button>
+    </div>    
+    <div>
+      <button id="aim_up_left" class="diagonal-btn">↖</button>
+      <button id="aim_up" class="arrow-btn">↑</button>
+      <button id="aim_up_right" class="diagonal-btn">↗</button>
+    </div>
+    <div class="horizontal-arrows">
+      <button id="aim_left" class="arrow-btn">←</button>
+      <button id="shoot" class="shoot-btn">Fire!</button> <!-- Botón de disparo -->
+      <button id="aim_right" class="arrow-btn">→</button>
+    </div>
+    <div>
+      <button id="aim_down_left" class="diagonal-btn">↙</button>
+      <button id="aim_down" class="arrow-btn">↓</button>
+      <button id="aim_down_right" class="diagonal-btn">↘</button>
+    </div>
+    
+    <body>
+        <div id="contador-monedas">Monedas recolectadas: <span id="valor-contador">0</span></div>
+        <div id="contador-enemigos">Enemigos eliminados: <span id="valor-enemigos">0</span></div>
+      </body>
+      
+    </body>
+    
+  </section>
+
+  <script src="Escenario.js"></script>
+  <script src="Pato.js"></script>
+  <script src="Arbusto.js"></script>
+  <script src="Moneda.js"></script>
+  <script src="Salida.js"></script>
+  <script src="Cañon.js"></script> <!-- Asegúrate de que el script del cañón esté cargado -->
+  <script src="Main.js"></script>
+</body>
+</html>
