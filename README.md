@@ -7,8 +7,8 @@ https://juego-estanque.netlify.app/
 ## 1. Comparación entre "cannon" y "swim" en Blockly Games:
 
 Al comparar el nombre de la primitiva "cannon" con "swim", se observan diferencias significativas. "Cannon" sugiere una acción más específica relacionada con un disparo, mientras que "swim" indica claramente un movimiento en el agua. La ejecución de cada bloque podría tener el siguiente efecto:
-La ejecución de "cannon" probablemente implicaría un disparo en una dirección específica con una potencia determinada.
-Por otro lado, "swim" probablemente resultaría en un movimiento continuo infinito en una dirección específica dentro del agua hasta usar “stop”.
+La ejecución de "cannon" implica un disparo en una dirección específica con una potencia determinada.
+Por otro lado, "swim" resulta en un movimiento continuo infinito en una dirección específica dentro del agua hasta usar “stop”.
 Para mejorar la comprensión, propongo cambiar el nombre de la función "cannon" a "shoot", ya que esta modificación enfatizaría la acción que se está realizando. Además, para "swim", podría ser útil que la función se ejecute como una acción única y que solo nade infinitamente dentro de un bucle, lo que podría evitar confusiones al usarla con otros bloques.
 
 ## 2. Pregunta sobre Bark:
