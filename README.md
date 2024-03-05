@@ -1,5 +1,5 @@
 ## Diagrama UML del desafío
-![image](https://github.com/marianom23/desafio_estanque/assets/81484301/8cb49b98-2d11-44ce-b575-d950328ffe6b)
+![uml estanque drawio](https://github.com/marianom23/desafio_estanque/assets/81484301/582959e7-8615-4096-93df-239ef394a008)
 
 ## Link a la version hosteada: 
 https://juego-estanque.netlify.app/
