@@ -1,7 +1,8 @@
 ## Diagrama UML del desafío
-![image](https://github.com/marianom23/desafio_estanque/assets/81484301/cc233824-e7f8-4bc3-99c4-e16ec3b76fab)
+![image](https://github.com/marianom23/desafio_estanque/assets/81484301/8cb49b98-2d11-44ce-b575-d950328ffe6b)
 
-Link a la version hosteada: https://juego-estanque.netlify.app/
+## Link a la version hosteada: 
+https://juego-estanque.netlify.app/
 
 ## 1. Comparación entre "cannon" y "swim" en Blockly Games:
 
