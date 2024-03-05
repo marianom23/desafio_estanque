@@ -11,7 +11,7 @@ La ejecución de "cannon" probablemente implicaría un disparo en una dirección
 Por otro lado, "swim" probablemente resultaría en un movimiento continuo infinito en una dirección específica dentro del agua hasta usar “stop”.
 Para mejorar la comprensión, propongo cambiar el nombre de la función "cannon" a "shoot", ya que esta modificación enfatizaría la acción que se está realizando. Además, para "swim", podría ser útil que la función se ejecute como una acción única y que solo nade infinitamente dentro de un bucle, lo que podría evitar confusiones al usarla con otros bloques.
 
-## 2. Desafío adicional:
+## 2. Pregunta sobre Bark:
 
 Imagina un nuevo desafío en el que el personaje es un perro que debe ahuyentar a los carteros que intentan dejar la correspondencia en el buzón de su calle. La acción primitiva en inglés es "bark". Considerando que "bark" puede traducirse como "ladrar" o "ladrido", ¿cuál sería la opción más adecuada en este caso?
 En este contexto específico, la traducción más adecuada sería "ladrar", ya que esta opción representa la acción que realiza el perro al emitir el sonido característico para ahuyentar a los carteros. "Ladrido", por otro lado, se refiere al sonido en sí mismo, pero no captura la acción que queremos representar en el juego.
