@@ -1,9 +1,8 @@
 ## Diagrama UML del desafío
 ![uml estanque drawio](https://github.com/marianom23/desafio_estanque/assets/81484301/582959e7-8615-4096-93df-239ef394a008)
 
-## Link a la version hosteada: 
-https://juego-estanque.netlify.app/
-
+## Link a la version hosteada: https://juego-estanque.netlify.app/
+![image](https://github.com/marianom23/desafio_estanque/assets/81484301/af3f72f6-ea98-4088-ae40-f639b0e18c67)
 ## 1. Comparación entre "cannon" y "swim" en Blockly Games:
 
 Al comparar el nombre de la primitiva "cannon" con "swim", se observan diferencias significativas. "Cannon" sugiere una acción más específica relacionada con un disparo, mientras que "swim" indica claramente un movimiento en el agua. La ejecución de cada bloque podría tener el siguiente efecto:
